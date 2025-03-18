@@ -1,4 +1,4 @@
-Device tree for the Redmi A2/A2+/PocoC51 (water)
+Recovery Device tree for the Redmi A2/A2+/PocoC51 (water)
 =================================================
 
 The device codename for redmi A2 is .23028RN4DG, 23026RN54G
